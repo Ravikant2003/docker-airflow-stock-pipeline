@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "python.analysis.extraPaths": [
+        "./scripts",
+        "./airflow/dags"
+    ],
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true
+}
