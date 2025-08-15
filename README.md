@@ -1,6 +1,6 @@
 # Dockerized Airflow Stock Data Pipeline
 
-Kindly View the working Demonstration of this project from this video, (Its from my Youtube Channel): https://youtu.be/g7HrtCQn0Ds
+Kindly View the working Demonstration of this project from this video, (Its from my Youtube Channel, and goes through the whole process): https://youtu.be/g7HrtCQn0Ds
 
 
 This project demonstrates a fully Dockerized **Airflow + PostgreSQL** pipeline that automatically fetches stock market data from [Alpha Vantage](https://www.alphavantage.co/) and updates a PostgreSQL database.  
